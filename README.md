@@ -1,2 +1,51 @@
-# Projeto-Web-Mobile-Aplica-o-de-Atendimento-M-dico
-Este projeto é uma aplicação web/mobile para a gestão de atendimentos médicos, desenvolvida em Java. O seu objetivo é otimizar a rotina de clínicas, substituindo o agendamento manual por um sistema digital. A aplicação permite o cadastro de pacientes e médicos, o agendamento/cancelamento de consultas e a visualização da agenda diária.
+# 🚀 Projeto Web/Mobile: Aplicação de Atendimento Médico
+
+Este é o projeto final extensionista desenvolvido para a disciplina de Programação Orientada a Objetos em Java, do curso de Análise e Desenvolvimento de Sistemas.
+Este projeto cumpre os requisitos de avaliação da disciplina, conforme o roteiro fornecido.
+
+* **Instituição:** Centro Universitário Ruy Barbosa - Wyden 
+* **Disciplina:** Programação Orientada a Objetos em Java 
+* **Professor:** Prof.Heleno Cardoso 
+* **Aluna:** Gabriella Mizrach Benevides
+
+## 📝 Descrição do Projeto
+
+O objetivo principal desta aplicação é solucionar o problema de gerenciamento manual de agendas em clínicas de pequeno porte. O sistema permite o controle digital e centralizado de pacientes, médicos e, principalmente, das consultas, otimizando a rotina administrativa e reduzindo erros de agendamento.
+
+---
+
+## ☁️ Aplicação em Nuvem 
+
+A aplicação está hospedada na nuvem e pode ser acedida publicamente através do link abaixo:
+
+
+---
+
+## ✨ Funcionalidades Principais
+
+* **Gestão de Pacientes:** Cadastro, consulta, edição e exclusão de pacientes.
+* **Gestão de Médicos:** Cadastro, consulta, edição e exclusão de médicos e suas especialidades.
+* **Agendamento de Consultas:** Permite marcar novas consultas, associando um paciente a um médico, com validação de regras de negócio (ex: não marcar no mesmo horário).
+* **Controle de Agenda:** Visualização da agenda por dia e funcionalidade para cancelar consultas.
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Backend:** Java (Spring Boot)
+* **Banco de Dados:** PostgreSQL 
+* **Hospedagem (Deploy):** Railway
+* **Controle de Versão:** Git & GitHub
+
+---
+
+##  Disponivel Neste Repositório
+
+Conforme exigido pelo roteiro, este repositório contém os três entregáveis obrigatórios do projeto:
+
+1. A aplicação Java completa.
+2. O documento .pdf contendo todo o planeamento e especificações do projeto.
+3. Os slides utilizados no seminário de apresentação.
+
+## 👩‍💻 Autora
+
+* **Gabriella Mizrach Benevides**
+* **Matrícula: 202402408097** 
